@@ -29,7 +29,7 @@ EPL-HomeWin-Prediction/
 ├── notebooks/                     <- Jupyter notebooks
 │   ├── 01_KhamPhaDuLieu.ipynb   <- Step 1: Exploration and visualizations
 │   ├── 02_LamSachDuLieu.ipynb          <- Step 2: Data cleaning and preprocessing
-│   └── 03_HuanLuyenModel (1).ipynb     <- Step 3: Model training and evaluation
+│   └── 03_HuanLuyenModel.ipynb     <- Step 3: Model training and evaluation
 │
 └── README.md                      <- Project documentation
 ```
@@ -106,7 +106,7 @@ EPL-HomeWin-Prediction/
 | Random Forest | Nonlinear ensemble | Captures interactions between cumulative and form features |
 | XGBoost | Gradient-boosted ensemble | Maximizes predictive ranking and robustness |
 
-> Exact numeric test metrics are available in `03_HuanLuyenModel (1).ipynb`.
+> Exact numeric test metrics are available in `03_HuanLuyenModel.ipynb`.
 
 ---
 
@@ -120,7 +120,7 @@ jupyter notebook
 Run notebooks in order:
 1. `01_KhamPhaDuLieu.ipynb`
 2. `02_LamSachDuLieu.ipynb`
-3. `03_HuanLuyenModel (1).ipynb`
+3. `03_HuanLuyenModel.ipynb`
 
 ---
 
